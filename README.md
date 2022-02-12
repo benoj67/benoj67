@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benoj Donbosco
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics , financial technology 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science Projects within the financial technology industry
 - 📫 How to reach me benoj67@hotmail.com
